@@ -28,4 +28,7 @@ A fully functional and visually appealing calculator that:
 - Uses CSS Grid to neatly align buttons
 - Can be used for addition, subtraction, multiplication, and division
 - Handles invalid inputs gracefully
+
+## Screenshot
+![Screenshot](calculator.png)
   
