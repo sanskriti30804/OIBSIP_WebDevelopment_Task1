@@ -31,4 +31,7 @@ A fully functional and visually appealing calculator that:
 
 ## Screenshot
 ![Screenshot](calculator.png)
+
+## Demo Video:
+👉 [Click here to watch the demo on YouTube](https://www.youtube.com/watch?v=c-GhFypjSrs)
   
